@@ -1,0 +1,20 @@
+{
+  "name": "qho431--webtech-assessment-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/007Edy007/QHO431--webtech-assessment-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/007Edy007/QHO431--webtech-assessment-/issues"
+  },
+  "homepage": "https://github.com/007Edy007/QHO431--webtech-assessment-#readme"
+}
